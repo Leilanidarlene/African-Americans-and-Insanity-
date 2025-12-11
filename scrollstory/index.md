@@ -19,7 +19,7 @@ tags:
 Black “insanity” post-Civil War emerged when white medical authorities, driven by racism and fears of black freedom, pathologized black life and diagnosed them with madness, leading to institutionalization in segregated, often awful asylums, where labor was used as “treatment”.   
 
 
-## Second heading
+## Post-Emancipation and Increased "Insanity" 
 {% include figure.html 
 class="right" 
 width="48%" 
