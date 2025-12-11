@@ -3,7 +3,7 @@ title: Forest
 author: Fred Gibbs
 layout: base
 date: 2025-07-21
-thumbnail: images/forest.png
+thumbnail:nlm_nlmuid-101743403X115-img.jpg
 summary: This essays demonstrates all the different components you might use on your page. Of course you don't need to use them all, but it's a good starting point if you feel comfortable with code snippets and deleting what you don't need.
 header-image: images/forest.png
 header-title:
@@ -15,7 +15,7 @@ tags:
   - music
 ---
 
-# Welcome to the Jungle
+# African Americans and Insanity in the Late 19th Century 
 This essay shows almost all the design elements you can employ on your essay pages. Most of the text is just dummy text to keep the focus on the page elements.
 
 
