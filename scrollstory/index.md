@@ -16,7 +16,7 @@ tags:
 ---
 
 # African Americans and Insanity in the Late 19th Century 
-This essay shows almost all the design elements you can employ on your essay pages. Most of the text is just dummy text to keep the focus on the page elements.
+Black “insanity” post-Civil War emerged when white medical authorities, driven by racism and fears of black freedom, pathologized black life and diagnosed them with madness, leading to institutionalization in segregated, often awful asylums, where labor was used as “treatment”.   
 
 
 ## Second heading
