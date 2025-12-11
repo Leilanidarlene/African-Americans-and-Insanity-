@@ -24,7 +24,7 @@ Black “insanity” post-Civil War emerged when white medical authorities, driv
 class="right" 
 width="48%" 
 caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris." 
-image-path="scrollstory/images/Oklahomainsaneasylum.jpg
+image-path="images/Oklahomainsaneasylum.jpg
 " 
 %}
 
