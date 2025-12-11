@@ -23,7 +23,7 @@ Black “insanity” post-Civil War emerged when white medical authorities, driv
 {% include figure.html 
 class="right" 
 width="48%" 
-caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris." 
+caption="Oklahoma Hospital for the Insane Patient Day Room" 
 image-path="images/Oklahomainsaneasylum.jpg
 " 
 %}
