@@ -15,7 +15,7 @@ tags:
   - music
 ---
 
-# Welcome to the Jungle
+# African Americans and Insanity in the Late 19th Century 
 This essay shows almost all the design elements you can employ on your essay pages. Most of the text is just dummy text to keep the focus on the page elements.
 
 
