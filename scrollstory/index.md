@@ -5,8 +5,8 @@ layout: base
 date: 2025-07-21
 thumbnail: git revert <commit-hash>
 summary: This essays demonstrates all the different components you might use on your page. Of course you don't need to use them all, but it's a good starting point if you feel comfortable with code snippets and deleting what you don't need.
-header-image: images/forest.png
-header-title:
+header-image: images/Header image .jpg
+header-title: 
 header-position: 0px
 toc-section: piano
 geo: [44.600000, -110.500000]
