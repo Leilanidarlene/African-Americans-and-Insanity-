@@ -28,7 +28,7 @@ image-path="images/Oklahomainsaneasylum.jpg
 " 
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
+Before the emancipation, pro-slavery physicians, like Samuel Cartwright, believed that African Americans had a disease known as Drapetomania. According to Dr. Samuel Cartwright in Diseases and Peculiarities of the Negro Race, this disease “induces the negro to run away from service, is as much a disease of the mind as any other species of mental alienation, and much more curable”.[^note1] White physicians before emancipation described an enslaved person who ran away as mentally ill, showing the racialization of Psychiatry.
 
 [^note1]: Cartwright, "Disease of peculiarities", 1
 
