@@ -57,7 +57,7 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
   position="top"
   image-path="images/Institution picture.webp"
   above-box-space = "100vh"
-  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+  box-content='A segregated African American Institution depicting labor as a cure.'
 %}
 
 
