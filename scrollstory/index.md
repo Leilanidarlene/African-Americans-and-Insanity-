@@ -89,7 +89,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
 ### IMAGE SWITCH HERE 
 
 {% include scrollybox/bg-switch.html
-  image-path="images/mvh-tv-room.jpg"
+  image-path="images/Asylum.webp"
   switch-id="switch1"
   bg-id="bg1"
 %}
