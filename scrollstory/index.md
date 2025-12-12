@@ -32,6 +32,7 @@ Before the emancipation, pro-slavery physicians, like Samuel Cartwright, believe
 
 [^note1]: Cartwright, "Disease of peculiarities", 1
 
+# After Emancipation 
 Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
 
 [^note2]: This is my citation at the end of the SECOND paragraph.
