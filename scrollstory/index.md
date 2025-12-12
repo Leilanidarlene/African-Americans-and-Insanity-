@@ -82,9 +82,9 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
   line-height = "100%"
 %}
 
-Now we have a text box scrolling up over the image. At various points (clearly labled in the following text) **the background image will switch.**
+ **the background image will switch.**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl. Curabitur consectetur placerat commodo. Maecenas sagittis facilisis turpis vel porta. Nulla facilisi. Nam viverra eget metus eget efficitur.
+The first image depicts women laboring in institutions, often working within the confines of societal gender norms. Depicting domestic labor as a cure for female hysteria. 
 
 
 ### IMAGE SWITCH HERE 
@@ -96,12 +96,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
 %}
 
 
-### Duis vehicula erat et diam
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
+The second image depicts a crowded male ward including adult and children African Americans. 
 
-
-#### Almost done
-This is the end of the story, and you should see the text box scroll out of view followed by the background image.
 
 
 {% include scrollybox/bg-multi-long-close.html %}
