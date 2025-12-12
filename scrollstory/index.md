@@ -32,10 +32,10 @@ Before the emancipation, pro-slavery physicians, like Samuel Cartwright, believe
 
 [^note1]: Cartwright, "Disease of peculiarities", 1
 
-# After Emancipation 
-Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
+# Post Emancipation 
+In the South, after emancipation, there was a rise in African Americans admitted to Southern asylums. Physicians argued that African Americans were becoming ill because of freedom, creating the notion that they could not handle being independent and a citizen, and leading to supposed moral weakness and a greater risk of becoming insane. This led to a large number of admissions to institutions that were often segregated or had a black only ward. One hospital, The Eastern Hospital, located in North Carolina, opened in 1880, and it accommodated African Americans. In the Boston Medical and Surgical Journal, Dr. Thomas Mays discusses the influx of black patients. Mays gives us a look into the number of patients, stating, “In December, 377 negroes were admitted.”[^note2] The number is larger than the number the doctor had seen before. Showing us that after the Civil War, there was an influx of African Americans being admitted to institutions. In the same journal, Dr. Mays discusses how, before emancipation, black insanity was better for the population and became prevalent after the war and emancipation.   
 
-[^note2]: This is my citation at the end of the SECOND paragraph.
+[^note2]: Mays, "Increase of Insanity and Consumption Among the Negro Population of the South Since the War, 538
 
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
 
