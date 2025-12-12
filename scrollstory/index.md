@@ -37,7 +37,7 @@ In the South, after emancipation, there was a rise in African Americans admitted
 
 [^note2]: Mays, "Increase of Insanity and Consumption Among the Negro Population of the South Since the War, 538
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
+Often, White physicians would enact specific symptoms in the recently freed African Americans, especially when discussing the heightened population in asylums. According to the document by Dr. Thomas Mays, he cites the work of another doctor, Dr. W.B. Barnes. Barnes describes the cause of black insanity as "deprivation, exposure, poor hygiene, difficulty of high preservation, and mental anxiety." These symptoms are defined as the result of recent freedom. Arguing that when African Americans were enslaved, the rate of insanity was uncommon compared to freedom. These examples say that free enslaved people are more susceptible to insanity compared to those still enslaved in the South. Further continuing the notion that when enslaved black people are under the confinement of enslavement, they show fewer signs of insanity. 
 
 {% include juxtapose.html
 image1="images/Wardroom.jpg"
