@@ -41,8 +41,8 @@ Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed 
 
 {% include juxtapose.html
 image1="images/Wardroom.jpg"
-image2="images/mvh-hist-common-room.jpg"
-caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
+image2="images/Institution.webp"
+caption="A picture from a ward room at an African American Asylum and Eastern Lunatic Asylum"
 %}
 
 
