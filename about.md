@@ -3,7 +3,7 @@ title: About
 layout: base
 ---
 
-# About 
+# Description of Sources Used  
 
 You'll replace all of this.
 
