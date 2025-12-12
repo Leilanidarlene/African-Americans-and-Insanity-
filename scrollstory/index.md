@@ -46,7 +46,7 @@ caption="A picture from a ward room at an African American Asylum and Eastern Lu
 %}
 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
+Physicians described symptoms but also diagnosed African Americans after the emancipation. Diagnoses like mania, moral insanity, and dementia are often racially biased and are usually diagnosed mainly in enslaved people. Some of the reasons for these diagnoses are that African Americans are described as childlike, excitable, or idle, leading to these diagnoses.   
 
 
 ## Asylum Conditions
