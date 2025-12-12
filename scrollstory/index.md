@@ -82,12 +82,10 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
   line-height = "100%"
 %}
 
- **the background image will switch.**
 
 The first image depicts women laboring in institutions, often working within the confines of societal gender norms. Depicting domestic labor as a cure for female hysteria. 
 
 
-### IMAGE SWITCH HERE 
 
 {% include scrollybox/bg-switch.html
   image-path="images/Asylum.webp"
