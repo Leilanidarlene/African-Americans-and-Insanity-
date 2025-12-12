@@ -1,6 +1,6 @@
 ---
-title: Forest
-author: Fred Gibbs
+title: African Americans and Insanity 
+author: Leilani Torres
 layout: base
 date: 2025-07-21
 thumbnail: git revert <commit-hash>
@@ -19,7 +19,7 @@ tags:
 Black “insanity” post-Civil War emerged when white medical authorities, driven by racism and fears of black freedom, pathologized black life and diagnosed them with madness, leading to institutionalization in segregated, often awful asylums, where labor was used as “treatment”.   
 
 
-## Post-Emancipation and Increased "Insanity" 
+## Before Emancipation  
 {% include figure.html 
 class="right" 
 width="48%" 
@@ -30,7 +30,7 @@ image-path="images/Oklahomainsaneasylum.jpg
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
 
-[^note1]: This is my citation at the end of the FIRST paragraph.
+[^note1]: Cartwright,1
 
 Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
 
