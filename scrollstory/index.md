@@ -132,7 +132,9 @@ Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed 
 
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
+> He claims that he is not a human being because he says he has not
+been allowed to vote.
+— 1895 admission form to Central Lunatic Asylum for Isham Thomas1
 
 
 ## Morbi posuere lacinia
