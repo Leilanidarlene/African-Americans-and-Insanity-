@@ -137,7 +137,8 @@ been allowed to vote.
 
 
 ## Conclusion
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
+
+Pathologizing Black bodies was and still is an issue in American society, and we can see this mapping back to post-Civil War times up until this very day. Historians have moved past researching this topic with the likes of stereotypes and reshaping the conversation to center on black people and their experiences. Psychiatric physicians based their knowledge around racialized biases, creating the notion that African Americans should be within the confines of slavery, and if they are not, then pathologizing their bodies and circumstances establishes the idea that they are insane, leading to mass incarceration. We can see some of this today when looking at black women’s bodies and physicians not listening because of the historical notion that black women don’t feel pain the same way as Caucasian women. On this website, my goal was to educate the everyday individual about a history that is often lost within the confines of the asylum walls. 
 
 
 ## Notes
