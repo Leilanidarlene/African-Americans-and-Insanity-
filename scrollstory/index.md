@@ -53,7 +53,9 @@ Physicians described symptoms and also diagnosed African Americans after the ema
 
 
 ## Asylum Conditions
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
+Segregated and primarily black asylums often came with poor conditions and were severely overcrowded. Virginia’s governor accepted an order from General Canby to maintain the Central Lunatic Asylum, according to him. “The lunatic asylums are overflowing with patients.” The letter was written to create more wards to further segregate the African American insane from the white insane and a larger institution. This primary source suggests that overcrowding was a significant issue in many institutions nationwide. 
+
+“Colored asylums” were extremely overcrowded, as described in General Canby’s letter to the governor, with 3-6 patients per bed. Most patients slept on pallets, straw mats, or even on the floor. Annual reports from the institutions described the conditions as severely congested and unfit for humane care. Due to the immense overcrowding, it often led to outbreaks of diseases like dysentery and the measles, furthering the notion that African Americans were housed under unsanitary conditions. In a transcript, Dr. J.J. DeLamater describes the conditions of the central state hospital, stating, “We have labored under many difficulties owing to the crowded condition of the wards (the occupants being twice as many as they were intended to accommodate).” Physicians discussed these conditions with the board in charge of Central State Hospital. The racialization and the conditions of the wards were prevalent and being discussed by the physicians themselves, but the overcrowding stayed because of the large influx of African American patients.  
 
 {% include scrollybox/bg.html
   height="220vh"
