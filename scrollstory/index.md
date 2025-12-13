@@ -143,10 +143,12 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 
 ## Notes
 
-- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+Cartwright, "Disease of peculiarities", 1
 
-- University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
+Delamater, "Institutionalized and Ward Conditions," 1870
 
-- University of New Mexico. Dept. of Facility Planning architectural drawings, 1892-2011, collection SWA UNMFPLAN Drawings, Stack 13	Drawer 01. Center for Southwest Research, University Libraries, University of New Mexico.
+Edwards, "Mad with Freedom: The Political Economy of Blackness, Insanity, and Civil Rights in the U.S. South, 1840-1940, 115
 
-- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  34. Center for Southwest Research, University Libraries, University of New Mexico.
+Gonaver, "The Peculiar Institution and Making Modern Psychiatry," 178
+
+Mays, "Increase of Insanity and Consumption Among the Negro Population of the South Since the War, 538
