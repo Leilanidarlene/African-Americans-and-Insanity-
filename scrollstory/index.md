@@ -109,11 +109,11 @@ The second image depicts a crowded male ward including adult and children Africa
 Asylum administrators often focused on women's reproductive and sexual organs as products of insanity rather than discussing the effects of violence on the woman's body, and frequently ignored and suppressed the trauma endured during enslavement and systemic violence. Most of the time, when discussing black women's sexuality in the asylum's conversations, they would mostly center around marriage and motherhood. Wendy Gonaver, as mentioned above, describes the Eastern Lunatic Asylum as being "involved in regulating and interpreting the sexuality of its female patients, and that racial differentiation was an important part of this exercise." Reviewing primary sources, the author also discusses how a lot of the women admitted were diagnosed with mania, monomania, dementia, or moral insanity. Moral insanity piqued my interest, especially when looking into gender and women in asylums. Moral insanity can be described as a gendered diagnosis mostly confined to a woman who defied domestic roles. In reading these sources, it makes a lot of sense why women were given the tasks they were inside asylums, but, differing from Caucasian women, there is always a racial line drawn.  
 
 
-## Praesent libero mi
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
+## Society: Racism or Insanity?  
 
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
+The arguments around the mass incarceration of African Americans mostly center around a racialized agenda. Elodie Edwards describes this as “the unsuitability of African Americans for American society was the product of a racist society in which they lived.” After freedom from enslavement, a lot of African Americans were still plagued by racial inequalities and poverty. Psychiatrists at the time called this maladjustment to society, which was used to claim that this was part of their identity as a characteristic called “black behavior”. Dr. Edward Jarvis discusses this in his medical report, stating, “lunacy was about eleven more times frequent for the African in freedom states.”[^note5]The disproportion that we see here is that in the South, enslaved people have not entered into society. A society that is built on the racial inferiority of black people, making this viewpoint skewed and inaccurate based on poverty levels and other social inequalities.  
 
+[^note5]: Jarvis, "Coloured Population of the Free States," 11
 
 {% assign images = 
 "images/Women in ward.webp,
@@ -127,7 +127,7 @@ images = images
 
 
 
-## Curabitur sapien risus
+## Modern Day Effects 
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
 
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
@@ -137,7 +137,7 @@ been allowed to vote.
 — 1895 admission form to Central Lunatic Asylum for Isham Thomas1
 
 
-## Morbi posuere lacinia
+## Conclusion
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
 
 
@@ -150,5 +150,7 @@ Delamater, "Institutionalized and Ward Conditions," 1870
 Edwards, "Mad with Freedom: The Political Economy of Blackness, Insanity, and Civil Rights in the U.S. South, 1840-1940, 115
 
 Gonaver, "The Peculiar Institution and Making Modern Psychiatry," 178
+
+Jarvis, "Coloured Population of the Free States," 11
 
 Mays, "Increase of Insanity and Consumption Among the Negro Population of the South Since the War, 538
