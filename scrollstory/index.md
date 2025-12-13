@@ -117,7 +117,7 @@ Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed s
 
 {% assign images = 
 "images/Women in ward.webp,
-images/mvh-history-stays.jpg,
+images/Men in asylum.jpg,
 images/mvh-room-cost.jpg" | split: ','
 %}
 
