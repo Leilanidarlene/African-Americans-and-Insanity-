@@ -104,9 +104,9 @@ The second image depicts a crowded male ward including adult and children Africa
 {% include scrollybox/bg-multi-long-close.html %}
 
 
-## Duis vehicula erat et diam
+## Women in the Asylum
 
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
+Asylum administrators often focused on women's reproductive and sexual organs as products of insanity rather than discussing the effects of violence on the woman's body, and frequently ignored and suppressed the trauma endured during enslavement and systemic violence. Most of the time, when discussing black women's sexuality in the asylum's conversations, they would mostly center around marriage and motherhood. Wendy Gonaver, as mentioned above, describes the Eastern Lunatic Asylum as being "involved in regulating and interpreting the sexuality of its female patients, and that racial differentiation was an important part of this exercise." Reviewing primary sources, the author also discusses how a lot of the women admitted were diagnosed with mania, monomania, dementia, or moral insanity. Moral insanity piqued my interest, especially when looking into gender and women in asylums. Moral insanity can be described as a gendered diagnosis mostly confined to a woman who defied domestic roles. In reading these sources, it makes a lot of sense why women were given the tasks they were inside asylums, but, differing from Caucasian women, there is always a racial line drawn.  
 
 
 ## Praesent libero mi
