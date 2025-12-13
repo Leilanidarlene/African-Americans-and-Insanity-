@@ -72,6 +72,8 @@ Patients in the segregated wards often suffered from medical and physical negle
 
 After emancipation, southern doctors and state officials introduced the idea that forced labor would be therapeutic for African American patients labeled as insane. The origins of this idea came from pre-emancipation and the idea that African Americans' bodies were suitable for manual labor. Across many institutions, including Central Lunatic Asylum, Georgia State Lunatic Asylum, and Taft State Hospital, black patients could be assigned different manual labor tasks. Primarily within the gender norms of society, men were often assigned to farm labor and construction. Black women were often assigned domestic duties, such as sewing, laundry, and kitchen work. Elodie Edwards describes a physician, John M. Galt's viewpoint about the inclusion of black insane patients. For Galt, "inclusion would make it possible for administrators to obtain a free labor force." Furthering the discussion that because the enslaved bodies could withstand manual labor during enslavement, their cure could be achieved through forced labor, which would return them to their "natural state." Describing the racialization of treatment, arguing that manual labor was African Americans' own type of therapy, predisposed by their bodies and lack of understanding of other therapeutic advances. In her book The Peculiar Institution and Making Modern Psychiatry, author Wendy Gonaver states that "farm labor or 'constant daily outdoor work' was to be the chief, if not the only means of cure," [^note4] Something she calls racial policing. Overall, white physicians saw manual labor as a means to continue laboring the once enslaved people, using pseudoscience seen before the Civil War to back up their claims. 
 
+The description of insane African American patients by Southern doctors was usually racialized, seeing them as animal-like and needing physical restraint. This idea led to the argument that African Americans were too wild to be receptive to moral treatment, which led to forced labor discussed above. This led to stereotypes seeing African Americans as child-like and needing to be restrained.  
+
 [^note4]: Gonaver, "The Peculiar Institution and Making Modern Psychiatry," 178
 
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
@@ -103,7 +105,6 @@ The second image depicts a crowded male ward including adult and children Africa
 
 
 ## Duis vehicula erat et diam
-{% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
 
@@ -115,7 +116,7 @@ Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed s
 
 
 {% assign images = 
-"images/mvh-menu.jpg,
+"images/Women in ward.webp,
 images/mvh-history-stays.jpg,
 images/mvh-room-cost.jpg" | split: ','
 %}
