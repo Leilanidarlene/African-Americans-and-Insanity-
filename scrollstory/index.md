@@ -59,8 +59,6 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
   height="220vh"
   position="top"
   image-path="images/Institution picture.webp"
-  above-box-space = "100vh"
-  box-content='A segregated African American Institution depicting labor as a cure.'
 %}
 
 
